@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66537f8e-f448-410e-b9c3-3cce18a5e022" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/Countdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/DetailsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/Favourite_eachActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/PracticeMst_eachActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/User_info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/modify_userinfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/views/FavouriteActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_countdown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_details.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_favourite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_favourite_each.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_modify_userinfo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_practice_mst_each.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_user_info.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cs-187" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/render.experimental.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/WebContent/Practice.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/WebContent/Register.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/WebContent/WEB-INF/lib/mysql-connector-java-5.1.39-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/WebContent/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/build/classes/com/servlet/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/build/classes/com/servlet/Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/build/classes/com/servlet/Register.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/src/com/servlet/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/src/com/servlet/Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroidTest-master/src/com/servlet/Register.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpTest-master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpTest-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/IndexActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/IndexActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/PersonActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/PersonActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/PracticeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/PracticeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/Register2Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/Register2Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/RegisterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/RegisterActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/SearchActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/SearchActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/StudioActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/StudioActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/bean/Pickers.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/bean/Pickers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/views/PickerScrollView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/gahui/httptest/views/PickerScrollView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/btn_border.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/btn_border.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/edit_text.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/edit_text.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/edit_text_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/edit_text_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_person.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_person.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_practice.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_practice.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_register2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_register2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_search.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_search.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_studio.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_studio.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/picker_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/picker_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/picker_layout2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/picker_layout2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/register.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/register.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/.idea/caches/gradle_models.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/.idea/render.experimental.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/androidTest/java/com/example/gahui/httptest/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/androidTest/java/com/example/gahui/httptest/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/IndexActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/IndexActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/PersonActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/PersonActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/PracticeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/PracticeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/Register2Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/Register2Activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/RegisterActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/RegisterActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/SearchActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/SearchActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/StudioActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/StudioActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/bean/Pickers.java" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/bean/Pickers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/views/PickerScrollView.java" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/java/com/example/gahui/httptest/views/PickerScrollView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/drawable/btn_border.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/drawable/btn_border.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/drawable/edit_text.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/drawable/edit_text.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/drawable/edit_text_selector.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/drawable/edit_text_selector.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/activity_index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/activity_index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/activity_person.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/activity_person.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/activity_practice.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/activity_practice.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/activity_register.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/activity_register.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/activity_register2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/activity_register2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/activity_search.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/activity_search.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/activity_studio.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/activity_studio.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/picker_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/picker_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/picker_layout2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/picker_layout2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/register.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/layout/register.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/app/src/test/java/com/example/gahui/httptest/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/app/src/test/java/com/example/gahui/httptest/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/mintty.exe.stackdump" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/mintty.exe.stackdump" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-187/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/cs-187/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/syliao/.android/avd/4.65_720p_Galaxy_Nexus_Edited_API_33.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cs-187" />
+  </component>
+  <component name="ProjectId" id="2KsATHQIz6Ecjcx8hRtYDYTrJ75" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="memory.settings.postsync.last.time.stamp" value="1677275572123" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="HttpTest-master.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66537f8e-f448-410e-b9c3-3cce18a5e022" name="Default Changelist" comment="" />
+      <created>1674752924488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674752924488</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
